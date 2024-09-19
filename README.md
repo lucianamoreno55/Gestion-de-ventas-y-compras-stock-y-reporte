@@ -7,4 +7,4 @@
   <li></li>
   <li></li>
 </ul>
-<img srl=https://julibetancur.blog/wp-content/uploads/2018/01/png-image-90b34c7fa176-1.png?w=447&h=350 alt="Historias de usuarios">
+<img srl="https://www.google.com/url?sa=i&url=https%3A%2F%2Fjulibetancur.blog%2F2018%2F01%2F29%2Fhistorias-de-usuario%2F&psig=AOvVaw2YLRjOCGGYRdKdoLNck1oy&ust=1726837330738000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjJufiIz4gDFQAAAAAdAAAAABAq" alt="Historias de usuarios">
