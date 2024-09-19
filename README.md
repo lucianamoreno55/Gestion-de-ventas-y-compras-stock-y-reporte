@@ -7,4 +7,4 @@
   <li></li>
   <li></li>
 </ul>
-<img srl="https://julibetancur.blog/wp-content/uploads/2018/01/png-image-90b34c7fa176-1.png?w=447&h=350" alt="Historias de usuarios">
+<img srl="https://www.iebschool.com/blog/wp-content/uploads/2021/11/Scrum-board-pana-1024x1024.png" alt="Historias de usuarios">
