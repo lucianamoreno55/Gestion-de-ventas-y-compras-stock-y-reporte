@@ -6,7 +6,7 @@
 <h2>Integrantes: </h2>
 <ul>
   <li>Moyano Mayra</li>
-  <li></li>
+  <li>cornejo Lucia</li>
   <li></li>
 </ul>
 <p>Primera Etapa - 21/08/2024</p>
