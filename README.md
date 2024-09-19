@@ -7,5 +7,4 @@
   <li></li>
   <li></li>
 </ul>
-![Uploading image.png…]()
-
+<img src="https://www.stratominds.com/image-new/historias-de-usuario.jpg">
