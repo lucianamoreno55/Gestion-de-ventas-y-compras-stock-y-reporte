@@ -7,4 +7,3 @@
   <li></li>
   <li></li>
 </ul>
-<img src="https://www.stratominds.com/image-new/historias-de-usuario.jpg">
