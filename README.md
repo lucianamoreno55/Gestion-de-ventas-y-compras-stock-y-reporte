@@ -67,4 +67,4 @@ El proyecto se llevará a cabo en modo consola, implementando una arquitectura b
   </ul>
 </section>
 
-https://chatgpt.com/share/66ed98e8-3624-8000-980e-a4a7b2100de9
+<a href="https://chatgpt.com/share/66ed98e8-3624-8000-980e-a4a7b2100de9" target="_blank">Historias de Usuario</a>
