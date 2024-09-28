@@ -15,7 +15,7 @@ El proyecto se llevará a cabo en modo consola, implementando una arquitectura b
 <h2>Integrantes: </h2>
 <ul>
   <li>Moyano Mayra</li>
-  <li>cornejo Lucia</li>
+  <li>Cornejo Lucia</li>
   <li></li>
 </ul>
 
