@@ -56,7 +56,7 @@ conn.commit()
 def registrar_venta_con_descuento(cliente, productos, forma_pago, descuento_general=0):
     # Insertar cliente (o verificar si ya existe)
     cursor.execute("INSERT INTO clientes (nombre, direccion, telefono) VALUES (?, ?, ?)", 
-                   (cliente['nombre'], cliente['direccion'], cliente['telefono']))
+                (cliente['nombre'], cliente['direccion'], cliente['telefono']))
     id_cliente = cursor.lastrowid
 
     # Obtener fecha actual
